@@ -24,12 +24,12 @@
     pip install python-dotenv
     ```
 
-5. **Create .env  file with GOOGLE_API_KEY **
+5. **Create .env  file with GOOGLE_API_KEY**
      ```bash
      GOOGLE_API_KEY="your-google-api-key"
      ```
 
-6. ***Use the Command to run the application**
+6. **Use the Command to run the application**
     ```bash
     streamlit run app.py
     ```
