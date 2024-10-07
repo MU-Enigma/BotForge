@@ -1,0 +1,4 @@
+The code to be run every time when you are on the server because it is not deployed.
+
+and the live server link is: https://discord.gg/XusBarwW
+
