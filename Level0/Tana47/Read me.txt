@@ -1,0 +1,7 @@
+1) In ChatGPT I put a prompt on making them believe 5+5 = 11 (which it is not) 
+
+ChatGPT gave a tougher competition trying to resist my request but eventually gave up
+
+2) Gemini Google's newer AI model took only one prompt to fall for it which is actually according to what I expected
+
+being a newer AI model I expect it to not have the experience something like chat-GPT would and of course it gave up in 1 prompt strictly 
